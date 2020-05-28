@@ -15,7 +15,7 @@ The following guides illustrate how to use some features concretely:
 # Spring Boot Restful API for Redis(Memory DB), Mysql Connect Test
 
 ## 준비 사항
-MY-SQL Workbench, Redis Local 설치
+MY-SQL Workbench(admin_user.sql 실행), Redis Local 설치   
 
 ## 실행 순서 
 1. SpringBootTestApplication을 실행 -> 톰켓 내장입니다. 
